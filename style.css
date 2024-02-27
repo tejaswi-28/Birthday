@@ -115,7 +115,6 @@ body {
 .cover img{
   width: 130px;
   margin-left: 25%;
-  margin-bottom: 8%;
   border-radius: 90px;
   filter: drop-shadow(0 0 5px rgb(24, 24, 24));
 }
