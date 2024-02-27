@@ -179,7 +179,6 @@ body {
   }
   .cover img{
     width: 40%;
-    padding-bottom: 0;
     margin-bottom: 0;
   }
 }
@@ -219,8 +218,6 @@ body {
   }
   .cover img{
     width: 45%;
-    padding-bottom: 0;
-    margin-bottom: 0;
   }
 }
 @media (max-width: 600px) {
